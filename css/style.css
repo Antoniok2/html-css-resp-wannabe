@@ -88,5 +88,13 @@ img {
   width: 96%;
   float: none;
   margin: 10px auto;
-}
+  }
+
+  #steps .row>.left,
+  #steps .row>.central,
+  #steps .row>.right {
+    float: none;
+    width: 100%;
+    margin: 20px auto;
+  }
 }
