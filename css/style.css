@@ -71,3 +71,22 @@ img {
 .clear {
   clear: both;
 }
+
+
+
+@media all and (max-width:419px) {
+  .row {
+    max-width: 419px;
+    width: 100%;
+    margin: 0 auto;
+  
+  }
+
+  #lezioni .row>.left,
+  #lezioni .row>.right {
+  max-width: 419px;
+  width: 96%;
+  float: none;
+  margin: 10px auto;
+}
+}
