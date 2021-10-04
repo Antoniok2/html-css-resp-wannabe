@@ -84,10 +84,10 @@ img {
 
   #lezioni .row>.left,
   #lezioni .row>.right {
-  max-width: 419px;
-  width: 96%;
-  float: none;
-  margin: 10px auto;
+    max-width: 419px;
+    width: 96%;
+    float: none;
+    margin: 10px auto;
   }
 
   #steps .row>.left,
@@ -101,7 +101,7 @@ img {
   #why .row>.first,
   #why .row>.second,
   #why .row>.third {
-  width: 100%;
+    width: 100%;
   }
 
   img {
