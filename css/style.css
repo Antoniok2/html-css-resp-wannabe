@@ -76,7 +76,7 @@ img {
 
 @media all and (max-width:419px) {
   .row {
-    max-width: 419px;
+    max-width: 100%;
     width: 100%;
     margin: 0 auto;
   
@@ -84,8 +84,8 @@ img {
 
   #lezioni .row>.left,
   #lezioni .row>.right {
-    max-width: 419px;
-    width: 96%;
+    max-width: 100%;
+    width: 100%;
     float: none;
     margin: 10px auto;
   }
